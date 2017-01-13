@@ -1,6 +1,6 @@
 {
-  "name": "wrappy",
-  "version": "1.0.2",
+  "name": "fishrock-test-package",
+  "version": "0.0.5",
   "description": "Callback wrapping utility",
   "main": "wrappy.js",
   "files": [
